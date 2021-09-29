@@ -9,6 +9,8 @@ For use this aplication follow this steps:
 
 3 - On your computer open the application folder in the terminal
 
-4 - Execute this command: python manage.py runserver
+4 - Install requirements: pip install -r /path/to/requirements.txt
+
+5 - Execute this command: python manage.py runserver
 
 Attention: Django REST Framework is required
